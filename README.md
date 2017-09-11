@@ -11,7 +11,7 @@ Pull Requests are welcomed. Please report all issues you find through your tests
 * [JDA](https://github.com/DV8FromTheWorld/JDA/) by DV8FromTheWorld and Kantenkugel
 * [JDA-Utilities](https://github.com/JDA-Applications/JDA-Utilities)by Jagrosh
 
-####Referenced from: [ExampleBot](https://github.com/jagrosh/ExampleBot/) by Jagrosh
+#### Referenced from: [ExampleBot](https://github.com/jagrosh/ExampleBot/) by Jagrosh
 NOTE: You will need to create your own Config.JSON for this to work. I wont provide mine for security reasons.
 
 ## Documentation
