@@ -1,5 +1,6 @@
 package com.Wolfstorm.bot;
 
+import com.Wolfstorm.bot.command.fun.chooseCommand;
 import com.jagrosh.jdautilities.commandclient.CommandClientBuilder;
 import com.jagrosh.jdautilities.commandclient.examples.AboutCommand;
 import com.jagrosh.jdautilities.commandclient.examples.PingCommand;
@@ -59,6 +60,9 @@ public class Bot
 
                 //Ping Command
                 new PingCommand(),
+
+                //Choose Command
+                new chooseCommand(),
 
                 //Shutdown Command
                 new ShutdownCommand());
