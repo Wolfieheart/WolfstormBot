@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WolfstormBot.iml" filepath="$PROJECT_DIR$/.idea/modules/WolfstormBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WolfstormBot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WolfstormBot_main.iml" group="WolfstormBot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WolfstormBot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WolfstormBot_test.iml" group="WolfstormBot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bot/bot.iml" filepath="$PROJECT_DIR$/.idea/modules/bot/bot.iml" group="bot" />
+    </modules>
+  </component>
+</project>

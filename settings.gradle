@@ -1,0 +1,4 @@
+rootProject.name = 'WolfstormBot'
+rootProject.name = 'WolfstormBot'
+include 'bot'
+
