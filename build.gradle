@@ -11,7 +11,7 @@ version '0.1-DEV'
 mainClassName = 'com.Wolfstorm.bot.Bot'
 
 version '1.0'
-def jdaVersion = '3.0.0_171'
+def jdaVersion = '3.3.1_307'
 
 apply plugin: 'java'
 
@@ -24,8 +24,8 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
-    compile 'com.jagrosh:JDA-Utilities:1.7'
-    compile 'net.dv8tion:JDA:3.3.0_265'
+    compile 'com.jagrosh:JDA-Utilities:1.8'
+    compile "net.dv8tion:JDA:$jdaVersion"
     compile 'com.sedmelluq:lavaplayer:1.2.42'
 
 }

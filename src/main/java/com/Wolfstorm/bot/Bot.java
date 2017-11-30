@@ -54,7 +54,7 @@ public class Bot
         //add Commands
         client.addCommands(
                 //About Command
-                new AboutCommand(Color.RED, "WolfstormBot 0.1-dev",
+                new AboutCommand(Color.RED, "WolfstormBot DEV Instance",
                         new String[]{"Commands", "Examples", "and more..."},
                         new Permission[]{Permission.ADMINISTRATOR}),
 
